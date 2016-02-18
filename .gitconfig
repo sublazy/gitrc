@@ -1,7 +1,7 @@
 [user]
     name = Cezary Sałbut
     email = csalbut@gmail.com
-    username = csalbut
+    username = sublazy
 
 [alias]
     st = status
@@ -16,5 +16,6 @@
     autocrlf = input
     safecrlf = true
     editor = vim
+
 [push]
-	default = simple
+    default = simple
