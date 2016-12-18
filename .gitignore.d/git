@@ -1,4 +1,5 @@
 *
-!/.gitconfig
 !/.gitignore.d
 !/.gitignore.d/git
+!.config/git/home.gitconfig
+!.config/git/upn.gitconfig
