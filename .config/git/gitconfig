@@ -17,3 +17,6 @@
 
 [push]
     default = simple
+
+[merge]
+    tool = bc
